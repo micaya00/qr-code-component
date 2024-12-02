@@ -60,7 +60,7 @@ body {
 }
 ```
 
--Using Box Shadow and its 4 values
+- Using Box Shadow and its 4 values
 ```css
 div {
     box-shadow: 0 1px 5px hsl(212, 45%, 89%);
