@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: Github.io (https://your-live-site-url.com)
+- Solution URL: [Add solution URL here] (https://your-solution-url.com)
+- Live Site URL: Github.io (https://micaya00.github.io/qr-code-component/)
 
 ## My process
 - I first downloaded the starter files and created a local repository with it. 
@@ -77,7 +77,7 @@ I'm gonna keep on working on HTML, CSS, and Flexbox. I'll also do the other chal
 - CSS Flexbox Layout Guide (https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an article that taught me Flexbox.
 - box-shadow (https://css-tricks.com/almanac/properties/b/box-shadow/) - This article taught me how to use box-shadow and its 4 values.
 - Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) (https://www.youtube.com/watch?v=hrTQipWp6co&t=0s) - This video by SuperSimpleDev helped me understand Git and use it.
-- Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2)(https://www.youtube.com/watch?v=1ibmWyt8hfw&t=710s) - This is the second part of the video. This video specifically taught about Github and how to connect them to your local repository.
+- Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2) (https://www.youtube.com/watch?v=1ibmWyt8hfw&t=710s) - This is the second part of the video. This video specifically taught about Github and how to connect them to your local repository.
 
 ## Author
 
